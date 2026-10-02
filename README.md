@@ -34,4 +34,4 @@ Prepared from the uploaded 0.8.0 project. Java syntax and resource XML were chec
 
 Original app code: MIT, Copyright (c) 2026 Thomas Köhler (Stompi); see `LICENSE`. Dependencies retain their own licenses.
 
-Security reports: **thomas@stompi.de**, privately; do not disclose private keys or recovery words. Source repository: https://github.com/Stompi-lab/stompi-android-wallet
+Security reports: **thomas@stompi.de**, privately; do not disclose private keys or recovery words. Source repository: [https://github.com/Stompi-lab/stompi-android-wallet](https://github.com/Stompi-lab/stompi-android-wallet-Android-App)
